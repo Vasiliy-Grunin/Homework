@@ -1,9 +1,0 @@
-C:\Users\Teacher\source\repos\kursach\bin\Release\kursach.exe
-C:\Users\Teacher\source\repos\kursach\bin\Release\kursach.pdb
-C:\Users\Teacher\source\repos\kursach\obj\Release\kursach.Form1.resources
-C:\Users\Teacher\source\repos\kursach\obj\Release\kursach.Main.resources
-C:\Users\Teacher\source\repos\kursach\obj\Release\kursach.Properties.Resources.resources
-C:\Users\Teacher\source\repos\kursach\obj\Release\kursach.csproj.GenerateResource.Cache
-C:\Users\Teacher\source\repos\kursach\obj\Release\kursach.csproj.CoreCompileInputs.cache
-C:\Users\Teacher\source\repos\kursach\obj\Release\kursach.exe
-C:\Users\Teacher\source\repos\kursach\obj\Release\kursach.pdb
